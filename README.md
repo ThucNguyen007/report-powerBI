@@ -44,11 +44,11 @@ Project Link: [https://github.com/ThucNguyen007/report-powerBI/](https://github.
   </a>
   <h3 align="center">Central Region</h3>
   <a>
-  <img src="./images-power-bi/2.jpg" width="900">
+  <img src="./images-power-bi/3.jpg" width="900">
   </a>
   <h3 align="center">South Region</h3>
   <a>
-  <img src="./images-power-bi/3.jpg" width="900">
+  <img src="./images-power-bi/4.jpg" width="900">
   </a>
 </p>
 

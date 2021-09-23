@@ -31,8 +31,7 @@ Project Link: [https://github.com/ThucNguyen007/report-powerBI/](https://github.
 - [Excel Data](https://docs.google.com/spreadsheets/d/1cLYQjyTNLHms6xnwQjhAjeqoyv-db8fx/edit#gid=911814947)
 
 ### 🛠 App Demos 💰📈 Exercises
-<img src="./images/1.png" width="250"><img src="./images/2.png" width="250"><img src="./images/3.png" width="250">
-
-<img src="./images/4.png" width="250"><img src="./images/5.png" width="250"><img src="./images/6.png" width="250">
-
-<img src="./images/7.png" width="250"><img src="./images/8.png" width="250"><img src="./images/9.png" width="250">
+<img src="./images-power-bi/1.jpg" width="400">
+<img src="./images-power-bi/2.jpg" width="400">
+<img src="./images-power-bi/3.jpg" width="400">
+<img src="./images-power-bi/4.jpg" width="400">

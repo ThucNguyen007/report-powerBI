@@ -34,13 +34,21 @@ Project Link: [https://github.com/ThucNguyen007/report-powerBI/](https://github.
 
 <br />
 <p>
-  1. ***All of Vietnamese Regions***
-<img src="./images-power-bi/1.jpg" width="900">
-2. ***North Region***
-<img src="./images-power-bi/2.jpg" width="900">
-3. ***Central Region***
-<img src="./images-power-bi/3.jpg" width="900">
-4. ***South Region***
-<img src="./images-power-bi/4.jpg" width="900">
+  <h3 align="center">All of Vietnamese Regions</h3>
+  <a>
+  <img src="./images-power-bi/1.jpg" width="900">
+  </a>
+  <h3 align="center">North Region</h3>
+  <a>
+  <img src="./images-power-bi/2.jpg" width="900">
+  </a>
+  <h3 align="center">Central Region</h3>
+  <a>
+  <img src="./images-power-bi/2.jpg" width="900">
+  </a>
+  <h3 align="center">South Region</h3>
+  <a>
+  <img src="./images-power-bi/3.jpg" width="900">
+  </a>
 </p>
 

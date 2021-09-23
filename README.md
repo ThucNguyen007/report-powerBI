@@ -31,7 +31,11 @@ Project Link: [https://github.com/ThucNguyen007/report-powerBI/](https://github.
 - [Excel Data](https://docs.google.com/spreadsheets/d/1cLYQjyTNLHms6xnwQjhAjeqoyv-db8fx/edit#gid=911814947)
 
 ### 🛠 App Demos 💰📈 Exercises
-<img src="./images-power-bi/1.jpg" width="700">
-<img src="./images-power-bi/2.jpg" width="700">
-<img src="./images-power-bi/3.jpg" width="700">
-<img src="./images-power-bi/4.jpg" width="700">
+# All of Vietnamese Regions
+<img src="./images-power-bi/1.jpg" width="900">
+# North Regions
+<img src="./images-power-bi/2.jpg" width="900">
+# Central Regions
+<img src="./images-power-bi/3.jpg" width="900">
+# South Regions
+<img src="./images-power-bi/4.jpg" width="900">
